@@ -14,7 +14,7 @@ app.get("/email", async (c) => {
       user: "RollandeNoonanjanuary832@outlook.com",
       pass: "6DxjdaIsy388",
       accessToken:
-        "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",
+        "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",
     },
     logger: false,
   });
@@ -42,6 +42,7 @@ app.get("/email", async (c) => {
         date: parsed.date,
         subject: parsed.subject,
         text: parsed.text,
+        code: getVerificationCodeFromMaildrop(parsed.subject ?? "")
       };
 
       return c.json(emailData);
@@ -49,10 +50,23 @@ app.get("/email", async (c) => {
       lock.release();
     }
   } catch (err) {
-    return c.json({ error: "Failed to retrieve email" }, 500);
+    return c.json({ error: "Failed to retrieve email", err }, 500);
   } finally {
     await client.logout();
   }
 });
+
+const getVerificationCodeFromMaildrop =  (
+  subject: string,
+) => {
+  const subjectMatch = subject.match(
+    /Verification Code:\s*([0-9\-]+)/
+  );
+  if (subjectMatch?.[1]) {
+    return subjectMatch[1];
+  }
+
+  return null;
+};
 
 serve(app);
